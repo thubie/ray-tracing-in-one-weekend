@@ -1,0 +1,9 @@
+[package]
+name = "raytracing_one_weeked"
+version = "0.1.0"
+authors = ["thubi <thubie90@live.nl>"]
+
+[dependencies]
+minifb = "0.10.3"
+byteorder = "1.1.0"
+cgmath = "0.15.0"
